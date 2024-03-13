@@ -34,7 +34,7 @@ Users should be able to:
 
 - Solution URL:
   [Github](https://github.com/LuisVera1/FrontendMentor-Interactive-rating-component)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://frontend-mentor-interactive-rating-component-psi.vercel.app/)
 
 ## My process
 
