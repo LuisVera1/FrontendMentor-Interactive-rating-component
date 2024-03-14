@@ -5,7 +5,7 @@ export const Thanks = ({ value = 5 }) => {
     <>
 
       <figure>
-        <img className='thanks-img' src="public/illustration-thank-you.svg" alt="thank you" />
+        <img className='thanks-img' src="/illustration-thank-you.svg" alt="thank you" />
       </figure>
 
       <p className='thanks__rating'>{`You selected ${value} out of 5`}</p>
